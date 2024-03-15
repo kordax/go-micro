@@ -1,6 +1,6 @@
-module github.com/asim/go-micro/cmd/protoc-gen-micro/v3
+module github.com/kordax/go-micro/cmd/protoc-gen-micro/v3
 
-go 1.16
+go 1.22
 
 require (
 	github.com/asim/go-micro/v3 v3.6.0
